@@ -1,0 +1,13 @@
+python program:
+
+enter a txt file with the names and the gmails
+
+like this: 
+bob | bob123@gail.com
+illy | lilster@ga.com
+
+
+then when the user runs the program, itll iterate through all the people, and itll ask you if that person has done the thing u want the person to do.
+
+
+when it is done, it will tell u to write a message, then that message will be sent out to the people that haven't done the thing.
